@@ -1,3 +1,7 @@
+![MacOS-Hardening banner: a fortress photographed from directly above, concentric rings of stone wall and grass closing around a small central keep with one tiny red flag, a slate blue moat ringing the whole island](banner.png)
+
+<p align="center"><img src="logo.png" alt="MacOS-Hardening logo: a flat emblem of a round stone tower seen from above inside a complete crenellated ring wall, a green courtyard between the tower and the wall, a slate blue moat arc outside and one small red banner on the tower, on a dark ground" width="200"></p>
+
 # Welcome to the macOS Hardening project
 
 ![Work in progress label](https://img.shields.io/badge/-Work%20in%20progress-yellow)
